@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: srgba(255, 255, 255, 0.048);
+    background-image: url("bg1.jpg");
+    padding: 0;
+    font-size: 20px;
+  }
+  
+  #heading1 {
+    text-align: center;
+    color: rgb(24, 25, 26);
+    padding: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(103, 15, 204);
+    border-radius: 2vw;
+    box-shadow: 5px 5px 20px #996ccca1;
+  }
+  #image{
+    height: 254px;
+    width: auto;
+    border-radius: 2vw;
+
+  }
+  #text1{
+    text-align: center;
+    font-size:35px;
+  }
+  #text2{
+    font-size:19px;
+      }
+  #head{
+    text-align: center;
+    font-size:35px;
+  }
+  #img2{
+    height: 30px;
+    width: 30px;
+    padding-top: 10px;
+
+  }
